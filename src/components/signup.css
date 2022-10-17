@@ -1,0 +1,38 @@
+.BG{
+    background-color: #3A611Eff;
+    width: 100%;
+    height:100vh;
+    padding-top: 20px;
+}
+.con_div{
+    margin-top:20px ;
+    background-color: rgb(178, 193, 65);
+    border-radius: 30px;
+}
+.btn1{
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 0px;
+    color: black;
+    font-weight: bold;
+}
+
+.namei{
+    color: black;
+    font-weight: bold;
+}
+.passwordi{
+    color: black;
+    font-weight: bold;
+}
+.emaili{
+    color: black;
+    font-weight: bold;
+}
+.phonei{
+    color: black;
+    font-weight: bold;
+}
