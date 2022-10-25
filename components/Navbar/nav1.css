@@ -1,0 +1,25 @@
+.nav_div{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    overflow: auto;
+}
+
+
+@media screen and (max-width: 700px) {
+    .nav_div{
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        overflow: auto;
+    }
+ }
+
+ @media screen and (max-width: 400px) {
+    .nav_div{
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        overflow: auto;
+    }
+ }

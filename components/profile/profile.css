@@ -1,0 +1,17 @@
+.con1-div{
+    padding-left: 300px;
+    padding-top: 100px;
+}
+
+@media screen and (max-width: 700px) {
+    .con1-div{
+        padding-left: 15px;
+        padding-top: 100px;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .con1-div{
+        padding-left: 20px;
+        padding-top: 50px;
+    }
+  }
